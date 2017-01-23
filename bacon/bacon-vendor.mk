@@ -26,7 +26,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
 	vendor/oneplus/bacon/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
 	vendor/oneplus/bacon/proprietary/lib/libopcamerahw_interface.so:system/lib/libopcamerahw_interface.so \
-	vendor/oneplus/bacon/proprietary/lib/libFNVfbEngineLib:system/lib/libFNVfbEngineLib.so \
+	vendor/oneplus/bacon/proprietary/lib/libshims_sensors.so:system/lib/libshims_sensors.so \
+	vendor/oneplus/bacon/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/oneplus/bacon/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libAKM8963.so:system/vendor/lib/libAKM8963.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
