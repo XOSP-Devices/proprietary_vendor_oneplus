@@ -81,14 +81,14 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_imx214.so:system/vendor/lib/libmmcamera_imx214.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_ov5648.so:system/vendor/lib/libmmcamera_ov5648.so \
-    vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_truly_cm770_eeprom.so:system/vendor/lib/libmmcamera_truly_cm770_eeprom.so \
+    vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_truly_cm7700_eeprom.so:system/vendor/lib/libmmcamera_truly_cm7700_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_sunny_f13s01l_eeprom.so:system/vendor/lib/libmmcamera_sunny_f13s01l_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so:system/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_sunny_p8v12b_eeprom.so:system/vendor/lib/libmmcamera_sunny_p8v12b_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so:system/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so:system/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so \
 	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so:system/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so \
-	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_dw9761_eeprom.so:system/vendor/lib/libmmcamera_dw9761b_eeprom.so \
+	vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_dw9761b_eeprom.so:system/vendor/lib/libmmcamera_dw9761b_eeprom.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
